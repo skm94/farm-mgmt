@@ -1,0 +1,18 @@
+ h1
+ {
+     margin-left: 20px;
+     display: inline;
+    text-align: center;
+    color: rgb(246, 248, 247);
+    font-family: sans-serif;
+}
+ .flex-container {
+    display: flex;
+    background-color: rgb(4, 190, 82);
+    padding-left: 20%;
+    
+  }
+  .flex-container>div {
+    margin: 20px;
+    
+  }
